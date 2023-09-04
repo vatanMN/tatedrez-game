@@ -13,6 +13,12 @@ The game must be buildable and runnable on iOS or Android at 60fps without crash
 # GAME DESCRIPTION AND RULES:
 Here's a step-by-step description of how a game of Tateddrez would unfold:  
 
+* **Pieces:**
+    The game has only 3 pieces. Knight, Bishop and Rook:
+    * Knight (Horse): The knight moves in an L-shape: two squares in one direction (either horizontally or vertically), followed by one square perpendicular to the previous direction. Knights can jump over other pieces on the board, making their movement unique. Knights can move to any square on the board that follows this L-shaped pattern, regardless of the color of the squares.
+    * Rook: The rook moves in straight lines either horizontally or vertically. It can move any number of squares in the chosen direction, as long as there are no pieces blocking its path.
+    * Bishop: The bishop moves diagonally on the board. It can move any number of squares diagonally in a single move, as long as there are no pieces obstructing its path.
+
 * **Board Setup:**
     An empty board is placed, consisting of a 3x3 grid, similar to a Tic Tac Toe game.
   <img width="320" alt="image" src="https://github.com/juanblasco/tatedrez-game/assets/129755869/69e58f89-c8e0-407c-9003-0ce5a6bb0beb">
