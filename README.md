@@ -21,6 +21,7 @@ Here's a step-by-step description of how a game of Tateddrez would unfold:
 
 * **Board Setup:**
     An empty board is placed, consisting of a 3x3 grid, similar to a Tic Tac Toe game.
+
   <img width="320" alt="image" src="https://github.com/juanblasco/tatedrez-game/assets/129755869/69e58f89-c8e0-407c-9003-0ce5a6bb0beb">
 
 * **Piece Placement:**
@@ -28,6 +29,7 @@ Here's a step-by-step description of how a game of Tateddrez would unfold:
     Player 1 places one of their pieces in an empty square on the board.  
     Player 2 places one of their pieces in another empty square on the board.  
     They continue alternating until both players have placed their three pieces on the board.
+
   <img width="321" alt="image" src="https://github.com/juanblasco/tatedrez-game/assets/129755869/85ec3c00-6cd7-467e-b853-37f28698829a">
   
 
@@ -43,6 +45,7 @@ Here's a step-by-step description of how a game of Tateddrez would unfold:
 * **Seeking TicTacToe:**
     In dynamic mode, players strategically move their pieces to form a TicTacToe.  
     They continue moving their pieces in turns until one of them achieves a TicTacToe with their three pieces.
+
   <img width="321" alt="image" src="https://github.com/juanblasco/tatedrez-game/assets/129755869/2d3e69f8-89ae-4890-b19a-aadb9838cfda">
 
 
