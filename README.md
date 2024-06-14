@@ -58,7 +58,7 @@ Here's a step-by-step description of how a game of Tateddrez would unfold:
 
 ---
 # Delivery
-* Fork this repository or clone this repository and create a new one into your github account and share the repository with the users "shanickgauthier" and "juanblasco" or make it public.
+* Fork this repository or clone this repository and create a new one into your github account and share the repository with the users "shanickgauthier", "juanblasco" and "kk-homa" or make it public.
 * Use Unity 2022.3.21
 * Build Android .apk and upload it to the repository.
 Good luck!
