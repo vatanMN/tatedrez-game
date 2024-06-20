@@ -57,8 +57,12 @@ Here's a step-by-step description of how a game of Tateddrez would unfold:
 
 
 ---
+# Tech requirements
+* Use Unity 2022.3.21
+* Please use only free assets. No paid assets or plugins should be used.
+* Any external module/plugin/library/resource should be in the project. Please don't use github URLs to intstall UPM packages.  
+---
 # Delivery
 * Fork this repository or clone this repository and create a new one into your github account and share the repository with the users "shanickgauthier", "juanblasco" and "kk-homa" or make it public.
-* Use Unity 2022.3.21
 * Build Android .apk and upload it to the repository.
 Good luck!
