@@ -64,5 +64,9 @@ Here's a step-by-step description of how a game of Tateddrez would unfold:
 ---
 # Delivery
 * Fork this repository or clone this repository and create a new one into your github account and share the repository with the users "shanickgauthier", "juanblasco" and "kk-homa" or make it public.
-* Build Android .apk and upload it to the repository.
+* Build Android .apk and upload it to the repository.  
+---
+### Disclaimer
+The company reserves the right not to provide feedback on the outcome of your case study.  
+
 Good luck!
