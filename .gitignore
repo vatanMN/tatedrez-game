@@ -1,0 +1,8 @@
+/Library
+/Logs
+/Temp
+*.sln
+/UserSettings
+*-Debug.json
+*.csproj
+*.DS_Store

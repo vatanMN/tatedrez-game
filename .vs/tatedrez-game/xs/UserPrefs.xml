@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{00BFA359-09DA-A946-0950-9A5AA4D4CD5D}|">
+  <MonoDevelop.Ide.ItemProperties.Scripts PreferredExecutionTarget="df8da71e-ff87-4ee5-bd48-969771eae62e" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PoolSystem/PoolController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SystemLocator/SystemLocator.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/PanelSystem/Panels/GamePanel/TetraBoard.cs" Line="210" Column="18" />
+      <File FileName="Assets/Scripts/TokenSystem/TokenObject.cs" Line="12" Column="29" />
+      <File FileName="Assets/Scripts/PanelSystem/Panels/GamePanel/GamePanel.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/TokenSystem/DragAndDrop.cs" Line="8" Column="23" />
+      <File FileName="Assets/Scripts/Coordinate/Coordinate.cs" Line="53" Column="14" />
+      <File FileName="Assets/WinPanel.cs" Line="24" Column="52" />
+      <File FileName="Assets/Scripts/PanelSystem/PanelController.cs" Line="44" Column="8" />
+      <File FileName="Assets/Scripts/PanelSystem/BasePanel.cs" Line="19" Column="21" />
+      <File FileName="Assets/Scripts/PoolSystem/PoolController.cs" Line="35" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tatedrez-game" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="df8da71e-ff87-4ee5-bd48-969771eae62e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
