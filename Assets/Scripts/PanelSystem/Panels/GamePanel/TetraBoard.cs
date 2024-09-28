@@ -24,11 +24,13 @@ public class TetraBoard : MonoBehaviour
     private const float EMPTY_TICKNESS = 20f;
 
     public PawnColor TurnColor;
+    private int turnNumber;
 
     public void Create()
     {
         SetScreenSize();
         CreatePawns();
+        turnNumber = 0;
         TurnColor = (PawnColor)UnityEngine.Random.Range(0, 2);
         SetTurn();
     }
@@ -36,6 +38,7 @@ public class TetraBoard : MonoBehaviour
     private void ChangeTurn()
     {
         TurnColor = (PawnColor) (1 - (int)TurnColor);
+        turnNumber++;
         SetTurn();
     }
 
@@ -44,7 +47,10 @@ public class TetraBoard : MonoBehaviour
         TurnText.text = TurnColor == PawnColor.WHITE ? "First Player's Turn" : "Second Player's Turn";
         foreach (var item in CreatedTokens)
         {
-            item.SetDraggable(TurnColor == item.Pawn.PawnColor);
+            if(turnNumber < 6 && item.Coordinate != CoordiantePool.GetCoordinate(-1,-1))
+                item.SetDraggable(false);
+            else
+                item.SetDraggable(TurnColor == item.Pawn.PawnColor);
         }
         if (!CheckIfMoveAvailable(TurnColor))
             ChangeTurn();
